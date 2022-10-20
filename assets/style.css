@@ -1,3 +1,4 @@
+/* Class selection starts with . */
 .lesson {
     background-color: lemonchiffon;
   }
@@ -6,6 +7,7 @@
     color: darkblue;
   }
   
+  /* ID selection starts with # */
   #email {
     background-color: goldenrod;
   }
@@ -22,4 +24,19 @@
     width:200px;
     height:200px;
   }
+
+  .lesson1 {
+    width: 200px;
+    height: 100px;
+  }
+
+  .section1 {
+    background-color: purple;
+  }
+
+  .yellowtext {
+    color: yellow;
+  }
+
+  .section2 
   
